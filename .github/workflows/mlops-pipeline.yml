@@ -25,7 +25,7 @@ jobs:
 
       - name: Run training script
         run: |
-          python mytrain.py
+          python train.py
 
 
                                                                                                                                                                                                   - name: Run training script
